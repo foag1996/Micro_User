@@ -9,7 +9,7 @@ Calidad del Software
 
 ### Prerrequisitors 🔧
 
-Leer el archivo [requirements.txt](https://github.com/foag1996/Micro_User/blob/main/requirements.) para más detalles
+Leer el archivo [requirements.txt](https://github.com/foag1996/Micro_User/blob/main/requirements.txt) para más detalles
 
 ### Software a Instalar ⚙️
 
