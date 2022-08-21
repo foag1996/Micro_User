@@ -23,4 +23,4 @@ def test_index_route():
 
 def test_204():
     response = client.get('/infoUser/foag')
-    assert response.status_code == 204
+    assert response.status_code == 500
